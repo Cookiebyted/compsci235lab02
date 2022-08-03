@@ -2,4 +2,4 @@
 git gud kid
 
 
-submitted my branch from home where internet actually worked - Francois
+submitted and merged my branch from home where internet actually worked - Francois
