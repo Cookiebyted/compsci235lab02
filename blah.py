@@ -74,6 +74,7 @@ def get_rand():
         Hint: Using random.randint() function.
     """
     my_randint = 0
+    my_randint = random.randint()
     return my_randint
 
 
